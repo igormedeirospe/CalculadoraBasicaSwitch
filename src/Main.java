@@ -33,7 +33,7 @@ public class Main {
             System.out.println("O valor da Subtração é: " + sub);
                 break;
 
-            case 3://Multiplicação
+            case 3://Multiplicação//s
                 int numeroMult1, numeroMult2;
                 numeroMult1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro numero da Multiplicação"));
                 numeroMult2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo numero da Multiplicação"));
